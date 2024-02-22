@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saidulis@yorku.ca**
 
-- 📄 Know about my experiences [https://saidul-islam98.github.io/](https://saidul-islam98.github.io/)
+- 📄 Know about my experiences [https://saidul-islam98.github.io/](https://saidul-islam98.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
