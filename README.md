@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saidul, a M.Sc. student @York University</h1>
+<h1 align="center">Hi 👋, I'm Saidul, Associate Applied ML Specialist @Vector Institute</h1>
 <h3 align="center">NLP and Information Visualization Researcher 📜 + 📊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidul-islam98&label=Profile%20views&color=0e75b6&style=flat" alt="saidul-islam98" /> </p>
